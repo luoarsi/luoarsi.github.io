@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Luoarsi&#39;s blog</title>
+    <link>http://luoarsi.github.io/</link>
+    <description>Recent content on Luoarsi&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 09 Sep 2021 20:33:19 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 09 Sep 2021 20:33:19 +0800</lastBuildDate><atom:link href="http://luoarsi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://example.org/post/hello/</link>
+      <link>http://luoarsi.github.io/post/hello/</link>
       <pubDate>Thu, 09 Sep 2021 20:33:19 +0800</pubDate>
       
-      <guid>http://example.org/post/hello/</guid>
+      <guid>http://luoarsi.github.io/post/hello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Readme</title>
-      <link>http://example.org/readme/</link>
+      <link>http://luoarsi.github.io/readme/</link>
       <pubDate>Thu, 09 Sep 2021 20:30:27 +0800</pubDate>
       
-      <guid>http://example.org/readme/</guid>
+      <guid>http://luoarsi.github.io/readme/</guid>
       <description>helloworld</description>
     </item>
     
     <item>
       <title>1</title>
-      <link>http://example.org/post/1/</link>
+      <link>http://luoarsi.github.io/post/1/</link>
       <pubDate>Thu, 09 Sep 2021 20:29:41 +0800</pubDate>
       
-      <guid>http://example.org/post/1/</guid>
+      <guid>http://luoarsi.github.io/post/1/</guid>
       <description></description>
     </item>
     
