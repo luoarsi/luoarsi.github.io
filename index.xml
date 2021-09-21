@@ -6,15 +6,32 @@
     <description>Recent content on Luoarsi&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 17 Sep 2021 17:19:17 +0800</lastBuildDate><atom:link href="https://luoarsi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Sep 2021 23:34:11 +0800</lastBuildDate><atom:link href="https://luoarsi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abc</title>
+      <link>https://luoarsi.github.io/post/abc/</link>
+      <pubDate>Tue, 21 Sep 2021 23:34:11 +0800</pubDate>
+      
+      <guid>https://luoarsi.github.io/post/abc/</guid>
+      <description>alfjlsjfls</description>
+    </item>
+    
+    <item>
+      <title>Lovefee</title>
+      <link>https://luoarsi.github.io/post/lovefee/</link>
+      <pubDate>Fri, 17 Sep 2021 20:56:40 +0800</pubDate>
+      
+      <guid>https://luoarsi.github.io/post/lovefee/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Git的简单命令</title>
       <link>https://luoarsi.github.io/post/git%E7%9A%84%E7%AE%80%E5%8D%95%E5%91%BD%E4%BB%A4/</link>
       <pubDate>Fri, 17 Sep 2021 17:19:17 +0800</pubDate>
       
       <guid>https://luoarsi.github.io/post/git%E7%9A%84%E7%AE%80%E5%8D%95%E5%91%BD%E4%BB%A4/</guid>
-      <description>在gitee或github中下载一个项目：  本地新建一个文件夹 在gitee或github中复制下载路径的【URL】 右键打开Git Bash Here，输入git init 输入“git clone【URL】”回车  上传更新的代码到仓库去：  (Git status) Git add . // 添加修改 Git commit -m ”XXX” Git pull Git push origin master  上传本地文件到gitee或github： 前提：已经在gitee或github里面新建了一个“与本地要上传文件同名”的仓库
- 删除 .git 文件 cd 到文件目录下（在cmd里cd到文件目录下或者直接在本地目录右键打开Git Bash Here） git init git config &amp;ndash;global user.name”胡思佳” git config &amp;ndash;global user.email”2943767211@qq.com” git add . git commit -m “first commit” git remote add origin https://gitee.com/某某某.git git push -u origin master  工作流程： “git pull origin master”</description>
+      <description>git</description>
     </item>
     
     <item>
