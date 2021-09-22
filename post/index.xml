@@ -13,18 +13,7 @@
       <pubDate>Wed, 22 Sep 2021 15:28:03 +0800</pubDate>
       
       <guid>https://luoarsi.github.io/post/%E5%A6%82%E4%BD%95%E5%9C%A8hugo%E9%87%8C%E5%86%99%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/</guid>
-      <description>下载go //ps:官网里有安装教程 下载hugo //ps:官网安装，初学者可以使用scoop包管理器辅助安装  这里教的是如何新建和删除一个博文
-如何新建一个博文？    hugo new post/XXX.md(根目录下)
-  写博文
-  在myblog下（根目录）执行 hugo
-  cd public
-  git init (git init只需第一次执行)
-  git add .
-  git commit -m &amp;quot;XXX&amp;quot;
-  git push -u origin master (只有第一次push需要加-u参数)
-   如何删除一个博文？   把content目录下的post目录下对于的.md文件删除  ​	myblog\content\post
-再把public目录下的post目录下对于的文件夹删除  ​	myblog\public\post
- </description>
+      <description>如何在hugo里写自己的博客</description>
     </item>
     
     <item>
